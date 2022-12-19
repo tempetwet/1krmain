@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    padding-top: 1px;
+   height: 20px;
+   margin-left: 25px;
+   margin-right: 25px;
+   margin-bottom:300px;
+}
+body{
+    background-color: rgb(170, 104, 49);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+}
+.dts{
+    margin-left: 500px;
+    color: white;
+}
+.wrapper{
+    width: 1100px;
+    margin: auto;
+    background-color: white;
+    height: 1200px;
+}
+.asd{
+    margin-top: 20px;
+}
+main{
+    width: 660px;
+    padding: 20px;
+}
+.fgh{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.block {
+    margin: auto;
+    margin-top: 25px;
+}
+.container{
+    display: flex;
+}
+.left{
+    width: 200px;
+    margin-right: 20px;
+    padding: 20px;
+    
+}
+.right{
+    margin-top: 30px;
+    width: 400px;
+    margin-left: 40px;
+    padding: 20px;
+    
+}
+.table{
+    width: 1050px;
+    margin-bottom: 25px;
+    background-color:black;
+}
+.img{
+    width: 1050px;
+}
+.green{
+    color: rgb(98, 197, 98);
+}
+.rth{
+    color: white;
+    text-decoration: none;
+}
+.terms{
+    color: rgb(173, 106, 29);
+    margin-bottom: 5px;
+}
+.qwe{
+    color: rgb(98, 197, 98);
+    text-decoration: none;
+}
+.rc{
+    background-color: rgb(74, 152, 241);
+    color: white;
+}
+footer{
+    width: 30px 0;
+    text-align: center;
+    background-color: green;
+    color: black;
+    padding: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+}
